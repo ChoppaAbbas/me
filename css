@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+}
+h1 {
+  width: 300px;
+  height: 100px;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5%;
+  margin-left: 60px;
+}
+p {
+  margin-top: 40px;
+  margin-left: 60px;
+  color: black;
+}
+button {
+  margin-top: 0px;
+  margin-left: 30px;
+  background-color: burlywood;
+  width: 180px;
+  height: 70px;
+  font-family: 'Trebuchet MS';
+  font-size: 18px; 
+}
+img {
+  margin-left :250px;
+  margin-top : -300px;
+  width: 300px;
+  height: 350px; 
+}
+body {
+  background: blue;
+}
